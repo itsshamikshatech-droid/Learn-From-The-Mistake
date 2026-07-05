@@ -1,0 +1,6 @@
+{
+  "name": "Learn From the Mistake",
+  "description": "An interactive, cinematic school assembly presentation designed to inspire and show how every success begins with a mistake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
